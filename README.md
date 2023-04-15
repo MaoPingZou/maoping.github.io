@@ -1,3 +1,3 @@
 # maoping.github.io
 
-I am Responsible for my own education.
+I am responsible for my own education.
